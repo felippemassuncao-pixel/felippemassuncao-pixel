@@ -1,0 +1,57 @@
+name = input("Hello! What is your name? ")
+print(f"Nice to meet you, {name}!")
+
+age_input = input("How old are you? ")
+age = int(age_input)
+bot_age = 3
+age_difference = age - bot_age 
+print(f"You are {age_difference} years older than me. I'm only {bot_age} years old!")
+
+color = input("What is your favorite color? ")
+
+if color == "blue":
+    print("I love this color too! (;")
+else:
+    print(f"Oh, {color} is a beautiful color.")
+resposta1 = input("Do you want to drink or eat?")
+if resposta1 == " eat":
+  ju = input("what would you like to eat?")
+  print(f"{ju} right?, at 5 minutes l will give you your dinner")
+if resposta1 == " drink":
+  ja = input("what would you like to drink?")
+  print(f" {ja} right?, at 5 minutes l will give you your dinner") 
+print("in another situation")
+good_day = input("hey, can you help me here?")
+trunks = " yes"
+helts = " not"
+if good_day == trunks:
+  print("oh good, you are a angel ")
+  print("you listen a voice talking with you, HEY, YOU WILL REALLY HELP HIM?")
+if good_day == helts:
+  print("oh good, tha... hey what?? why?")
+  print("YES, DON'T HELP HIM")
+  print("Do you have certainty about that?")
+hyey = input("yes or not?")
+if hyey == " yes":
+  print("YOU DECIDE CORRECTLY")
+  print(" a thunder hit the men and he died")
+if hyey == " not":
+ good_night = input("can you help me here? please?")
+trunks = " yes"
+helts = " not"
+if good_night == helts:
+  print("oh good, you are a angel ")
+  print("you listen a voice talking with you, HEY, YOU WILL REALLY HELP HIM?")
+  heyi = input("yes or not?")
+  print("I DON'T CARE!!")
+  print("a thunder hit the men and he died")
+print ("So, what did you do last weekend?")
+lucci = input("Your answer:")
+if lucci == "I died":
+  print("oh, that is new for this old teacher, could you tell more about that?")
+elif lucci == "l overclock my PC":
+ print("what is that exactly?")
+elif lucci == "I play with my dog":
+  print(" is really good make whatever you like, but don't  spend too much time in this, ok?")
+else:
+ print("perfect, this will be a good title for our text.")
