@@ -5,4 +5,5 @@
  Sei programar ligeiramente em Python, estou aprendendo a mexer no Linux e sei sobre cores e logica do design.
 
  📞Quer entrar em contato?📞
+
  felippemassuncao@gmail.com
