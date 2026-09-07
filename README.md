@@ -2,7 +2,7 @@
 
  📖Meus conhecimentos📖
 
- Sei programar ligeiramente em Python, estou aprendendo a mexer no Linux e sei sobre cores e logica do design.
+ Sei programar ligeiramente em Python, estou aprendendo a mexer no Linux, sei sobre cores e lógica do design e tenho nível intermediário em inglês.
 
  📞Quer entrar em contato?📞
 
